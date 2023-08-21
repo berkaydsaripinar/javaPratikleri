@@ -1,4 +1,10 @@
 import java.util.Scanner;
+/*
+-- 22.8.2023 - 00.10 --
+Devam etmek istiyor musun? sorusu ardından "H" işaretlediğimiz
+zaman program Exception fırlatıyordu. Bu problemi bir boolean
+tanımlayarak ve kontrolünü yaparak çözdüm.
+*/
 
 public class Main {
     static boolean cikisYap;
@@ -34,6 +40,8 @@ public class Main {
                         System.out.println((i + 1) + "- " + isimler[i]);
                     }
                 }else{
+                    System.out.println("Çıkış yapıldı.");
+
                     break;
                 }
                 System.out.println("");
@@ -70,7 +78,7 @@ public class Main {
                 break;
             }
 
-      }
+        }
         scanner.close();
     }
 
@@ -116,14 +124,14 @@ public class Main {
         System.out.print("Devam etmek istiyor musunuz? (E/H): ");
         String continueChoice = scanner.next();
         if (continueChoice.equalsIgnoreCase("H")) {
-            System.out.print("Çıkış yapılıyor....");
+            System.out.println("Çıkış yapılıyor.... \n");
             cikisYap = true;
+
         }else{
-            System.out.print("Ana menüye dönülüyor....");
+            System.out.println("Ana menüye dönülüyor....");
             cikisYap = false;
         }
     }
 
 }
-
 
