@@ -1,2 +1,2 @@
-# javaPratikleri
+# Patika.dev Java Patikası Projeleri
  
