@@ -4,13 +4,13 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int r,a;
+        float r,a;
         double pi = 3.14;
 
         System.out.print("Yarıçapını giriniz: ");
-        r = input.nextInt();
+        r = input.nextFloat();
         System.out.print("Merkez açısının ölçüsünü giriniz: ");
-        a = input.nextInt();
+        a = input.nextFloat();
 
         double area = (pi *(r*r) *a)/360;
         System.out.print("Dairenin alanı : " + area);
