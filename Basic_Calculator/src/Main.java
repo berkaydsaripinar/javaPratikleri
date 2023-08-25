@@ -80,10 +80,14 @@ public class Main {
         int select;
         System.out.print("\n\nDevam etmek ister misin?\n(1) Evet / (2) Hayır :  ");
         select = input.nextInt();
-        if (select == 1) {
-            devam = true;
-        } else {
-            devam = false;
+            switch (select){
+                case 1:
+                    devam = true;
+                    break;
+                case 2:
+                    devam = false;
+                    break;
         }
-    }
+        }
+
 }
