@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basic_Calculator/Basic_Calculator.iml" filepath="$PROJECT_DIR$/Basic_Calculator/Basic_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class_Note_Average/Class_Note_Average.iml" filepath="$PROJECT_DIR$/Class_Note_Average/Class_Note_Average.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Daire_Alan/Daire_Alan.iml" filepath="$PROJECT_DIR$/Daire_Alan/Daire_Alan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dik_Ucgende_Hipotenus_Bulan_Program/Dik_Ucgende_Hipotenus_Bulan_Program.iml" filepath="$PROJECT_DIR$/Dik_Ucgende_Hipotenus_Bulan_Program/Dik_Ucgende_Hipotenus_Bulan_Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Pratikleri.iml" filepath="$PROJECT_DIR$/.idea/Java_Pratikleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KDV_Tutari_Hesaplayan_Program/KDV_Tutari_Hesaplayan_Program.iml" filepath="$PROJECT_DIR$/KDV_Tutari_Hesaplayan_Program/KDV_Tutari_Hesaplayan_Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Manav-Kasa-Programi/Manav-Kasa-Programi.iml" filepath="$PROJECT_DIR$/Manav-Kasa-Programi/Manav-Kasa-Programi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotHesaplamaUygulamasi/NotHesaplamaUygulamasi.iml" filepath="$PROJECT_DIR$/NotHesaplamaUygulamasi/NotHesaplamaUygulamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SinifListesiUygulamasi/SinifListesiUygulamasi.iml" filepath="$PROJECT_DIR$/SinifListesiUygulamasi/SinifListesiUygulamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taksimetre/Taksimetre.iml" filepath="$PROJECT_DIR$/Taksimetre/Taksimetre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ucgenin_Alani/Ucgenin_Alani.iml" filepath="$PROJECT_DIR$/Ucgenin_Alani/Ucgenin_Alani.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Username_Login/Username_Login.iml" filepath="$PROJECT_DIR$/Username_Login/Username_Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vucut_Kitle_Endeksi/Vucut_Kitle_Endeksi.iml" filepath="$PROJECT_DIR$/Vucut_Kitle_Endeksi/Vucut_Kitle_Endeksi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weather_Event/Weather_Event.iml" filepath="$PROJECT_DIR$/Weather_Event/Weather_Event.iml" />
+    </modules>
+  </component>
+</project>
